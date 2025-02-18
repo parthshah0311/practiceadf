@@ -1,0 +1,9 @@
+{
+	"name": "adfcopyactivity32",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "db8df55c-5ec8-47a3-a2a5-19fd3a833867",
+		"tenantId": "4ddd393a-e98a-4404-841f-c4becdd925a5"
+	}
+}
